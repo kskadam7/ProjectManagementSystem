@@ -1,0 +1,38 @@
+PROJECT MANAGEMENT SYSTEM SRS DOCCUMENT
+
+1.Introduction
+This doccument gives information about the functional and non functional requirements of the Project Management System.It also includes the usage of the system.
+
+1.1 Scope
+Online Project Management System is a tool to help in managing projects within organization.The system will help employees,project managers,delivery managers,stakeholders to update executions of projects.
+
+1.2 Usage
+This management system will be used for managing resources with very effictive time.
+
+2.Functional Requirements
+
+The online project management system will require some functional requirements for running the system smoothly and user friendly.
+
+2.1 Registraion ...
+The users of this system i.e all the employees working in the organization, all the team leads of their respective projects ,all the project managers ,project delivery managers, and also the stakeholder are required to register on this system for first time for accessing the system.Resulting,it will generate the user account from which user can submit,deliver and manage their projects.
+
+2.2 Sign in
+After rigistering on to the registration link there will be an option to sign in.User must mention the same username that was given assigned to him/her.Also it will require password.
+
+2.3 Upload Repository
+User can upload his project related data such as SQL files,er diagrams etc on his personal (private) or public repository.It will be accessible to him from anywhere means any platform.
+
+2.4 Managing Projects
+The project managers can manage the projects that are submitted by the team leads working under him.The system allows Project manager to make changes into the project if needed or send it back to the team leads for change.Also the system allows project manager to update about executions of projects.The manager will be able to manage the resources also.
+
+2.5 Delivery of projects
+The system allows delivery managers to deliver the projects that are supposed to deliver to the stakeholders sent by project managers.
+
+
+
+
+Business Entities....
+Registration,projects,Employees,Team leads,Project Managers,Delivery managers,Stakeholder. 
+
+Business Operations...
+Registration,Create new project,send project,make changes in project if required,deliver projects,update project,execute project. 
